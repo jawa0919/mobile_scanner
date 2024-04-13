@@ -1,6 +1,6 @@
-# mobile_scanner_example
+# mobile_scan_qr_example
 
-Demonstrates how to use the mobile_scanner plugin.
+Demonstrates how to use the mobile_scan_qr plugin.
 
 ## Getting Started
 
